@@ -1,0 +1,30 @@
+{
+  "name": "gsdk/form",
+  "type": "library",
+  "description": "Form view helper",
+  "version": "1.0.0",
+  "keywords": [
+	"gsdk",
+	"form"
+  ],
+  "license": "MIT",
+  "authors": [
+	{
+	  "name": "Sergey Guryanov",
+	  "email": "s16121986@yandex.ru"
+	}
+  ],
+  "require": {
+	"php": ">=8.0.2"
+  },
+  "require-dev": {
+  },
+  "conflict": {
+  },
+  "autoload": {
+	"psr-4": {
+	  "Gsdk\\Form\\": ""
+	}
+  },
+  "minimum-stability": "dev"
+}
